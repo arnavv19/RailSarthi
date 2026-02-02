@@ -104,8 +104,8 @@ RailSarthi/
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/sonamnimje/RailAnukriti.git
-cd RailAnukriti
+git clone https://github.com/sonamnimje/RailSarthi.git
+cd RailSarthi
 ```
 
 ### 2️⃣ Backend Setup
