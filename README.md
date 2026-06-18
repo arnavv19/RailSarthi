@@ -217,14 +217,6 @@ The optimizer uses a multi-factor scoring system that considers:
 3. **Section Congestion:** Adjusts recommendations based on real-time congestion levels
 4. **Train Priority:** Express trains prioritized over freight during peak hours
 
-
-## 🤝 Team RailSarthi
-
-- 🚆 Backend AI/Optimization: Sonam Nimje, Shreya Saraf
-- 🖥 Frontend/UI: Sameeksha Vishwakarma
-- 🗄 Database & Infra: Riya Saraf
-- 📊 Simulation & Reports: Palak Singh, Richa Singh
-
 ---
 
 ## 📜 License
